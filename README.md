@@ -15,7 +15,7 @@ Ao final, o sistema exibe também **qual aluno obteve a maior média e qual teve
 - Arthur Moraes  
 - Breno Bortolleto  
 - Guilherme Gil  
-- Nicolas Liborio (Kalleww)
+- Nicolas Liborio (Kallew)
 
 ---
 
